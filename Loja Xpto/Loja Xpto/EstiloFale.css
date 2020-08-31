@@ -1,0 +1,103 @@
+body
+{
+    background: radial-gradient(#900,#fff);
+}
+#menu
+{
+ font-family: fonte;
+ font-size: 30px;
+ position : absolute;
+ top : 10px;
+ left :25px;
+}
+#menu ul
+{
+    padding:5px;
+    margin:9px;
+    background-color:#EDEDED;
+    list-style : none;
+}
+#menu ul li
+{ 
+    display: inline; 
+}
+#menu ul li a {
+    padding: 5px 10px;
+    display: inline-block;
+
+    /* visual do link */
+    background-color:#EDEDED;
+    color: #333;
+    text-decoration: none;
+    border-bottom:3px solid #EDEDED;
+}
+#menu ul li a:hover {
+    background-color:#D6D6D6;
+    color: #6D6D6D;
+    border-bottom:0px solid #EA0000;
+}
+h1
+{
+ font-family : fonte;
+ font-size :35px;
+ top : 100%;
+ left :100px;
+ color : #000000;
+}
+h2
+{
+ font-family : fonte;
+ font-size :25px;
+ top : 100%;
+ left :100px;
+ color : #990000;
+}
+h3
+{
+ font-family : fonte;
+ font-size :45px;
+ top : 100%;
+ left :100px;
+ color : #ffffff;
+}
+
+#livros4{
+    background-color:white;
+    width: 20%;
+    height: 200PX; 
+    margin-top: 15%;
+    margin-left: 63%;
+    border-radius: 40px;
+    top: 90px;
+    left: 50px;
+}
+#livros5{
+    background-color:white;
+    width: 20%;
+    height: 200PX; 
+    margin-top: -15%;
+    margin-left: 13%;
+    border-radius: 40px;
+    top: 90px;
+    left: 50px;
+}
+#livros6{
+    background-color:white;
+    width: 20%;
+    height: 200PX; 
+    margin-top: 15%;
+    margin-left: 63%;
+    border-radius: 40px;
+    top: 100px;
+    left: 50px;
+}
+#livros7{
+    background-color:white;
+    width: 20%;
+    height: 200PX; 
+    margin-top: -15%;
+    margin-left: 13%;
+    border-radius: 40px;
+    top: 90px;
+    left: 50px;
+}

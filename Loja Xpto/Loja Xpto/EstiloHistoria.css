@@ -1,0 +1,56 @@
+h1
+{
+font-family : fonte;
+font-size: 15px;
+color :#000000;
+top :50px;
+}
+h2
+{
+font-family :arial;
+font-size:15px;
+color : #000000;
+}
+body
+{
+ background-color:#99ffff;
+}
+#foto
+{
+ position : absolute;
+ top : 30px;
+ left : 20px;
+ width : 50%;
+ background-image : image()no-repeat;
+}
+#menu
+{
+ font-family : fonte;
+ font-size: 15px;
+ position : absolute;
+ top : 192px;
+ left :-50px;
+}
+#menu ul
+{
+ padding :15px;
+ margin : 10px;
+ list-style : none; 
+}
+#menu ul li a 
+{
+ padding : 10px 35px;
+ display : inline-block;
+ background-color: #99ffff;
+ color : #000000;
+ text-decoration : none;
+}
+#menu ul li a:hover
+{
+ background-color : #ffffff;
+ color : #990000;
+}
+body
+{
+    background: radial-gradient(#9ff,#000);
+}

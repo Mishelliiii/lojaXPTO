@@ -1,0 +1,106 @@
+body
+{
+    background: radial-gradient(#900,#fff);
+}
+#menu
+{
+ font-family: fonte;
+ font-size: 30px;
+ position : absolute;
+ top : 10px;
+ left :25px;
+}
+#menu ul
+{
+    padding:0px;
+    margin:0px;
+    background-color:#EDEDED;
+    list-style:none;
+}
+#menu ul li
+{ 
+    display: inline; 
+}
+#menu ul li a {
+    padding: 2px 10px;
+    display: inline-block;
+
+    /* visual do link */
+    background-color:#EDEDED;
+    color: #333;
+    text-decoration: none;
+    border-bottom:3px solid #EDEDED;
+}
+#menu ul li a:hover {
+    background-color:#D6D6D6;
+    color: #6D6D6D;
+    border-bottom:3px solid #EA0000;
+}
+#livros1{
+    background-color:white;
+    width: 50%;
+    height: 300PX; 
+    margin-top: 15%;
+    margin-left: -3%;
+    border-radius: 40px;
+}
+#livros2{
+    background-color:white;
+    width: 50%;
+    height: 300PX; 
+    margin-top: 15%;
+    margin-left: -3%;
+    border-radius: 40px;
+}
+#livros3{
+    background-color:white;
+    width: 50%;
+    height: 300PX; 
+    margin-top: 15%;
+    margin-left: -3%;
+    border-radius: 40px;
+}
+#livros4{
+    background-color:white;
+    width: 50%;
+    height: 300PX; 
+    margin-top: 15%;
+    margin-left: -3%;
+    border-radius: 40px;
+    top: 50px;
+    left: 50px;
+}
+
+h1
+{
+ font-family : fonte;
+ font-size :25px;
+ top : 100%;
+ left :100px;
+ color : #000000;
+}
+h2
+{
+ font-family : fonte;
+ font-size :25px;
+ top : 100%;
+ left :100px;
+ color : #990000;
+}
+h3
+{
+ font-family : fonte;
+ font-size :45px;
+ top : 100%;
+ left :100px;
+ color : #ffffff;
+}
+.imagens img {
+background-size : cover;
+line-height: 50px ;
+width : 155px;
+height : 175px;
+top: 100px;
+left: 10px;
+background-position: relative;
+}
